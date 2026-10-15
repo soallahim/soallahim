@@ -28,3 +28,6 @@ CCNA · CompTIA Security+ · AZ-500 · eWPT · eCPPT · Splunk Core Certified Po
 
 Projects and practical security design case studies will be added here.
   
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/salam-allahim-1b4262277/)
