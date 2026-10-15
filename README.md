@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**soallahim/soallahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Salam Allahim
 
-Here are some ideas to get you started:
+**Cybersecurity Specialist | Security Architecture | Network Security | Cloud Security**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Riyadh, Saudi Arabia
+
+## About Me
+
+Cybersecurity Specialist focused on designing secure, resilient, and risk-driven security architectures.
+
+Specialized in security design reviews, network segmentation, firewall security, and risk assessments, with a strong focus on translating security requirements into practical, effective controls.
+
+## Areas of Focus
+
+- Security Architecture & Design Reviews
+- Network Security & Segmentation
+- Firewall Security
+- Cloud Security
+- Risk Assessment & GRC
+- Security Monitoring & SIEM
+
+## Certifications
+
+CCNA · CompTIA Security+ · AZ-500 · eWPT · eCPPT · Splunk Core Certified Power User
+
+## Security Architecture Portfolio
+
+Projects and practical security design case studies will be added here.
+  
