@@ -26,8 +26,14 @@ CCNA · CompTIA Security+ · AZ-500 · eWPT · eCPPT · Splunk Core Certified Po
 
 ## Security Architecture Portfolio
 
-Projects and practical security design case studies will be added here.
-  
+### Featured Project: Enterprise Network Segmentation & Security Architecture
+
+A practical security architecture case study covering network segmentation, firewall policy design, risk assessment, and security validation using OPNsense.
+
+Identified and remediated unintended firewall management access, with documented testing results and supporting evidence.
+
+[Explore My Security Architecture Portfolio](https://github.com/soallahim/security-architecture-portfolio)
+
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/salam-allahim-1b4262277/)
